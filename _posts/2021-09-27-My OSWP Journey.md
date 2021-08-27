@@ -11,10 +11,10 @@ hero: https://source.unsplash.com/collection/145103/
 overlay: green
 published: true
 ---
-***
+
 * * *
 
-# Intro
+## Intro
 
 Before we get into it I want to preface this with the fact the OSWP has been retired and as of now does not have a replacement. With that being said I still wanted to give my experience with the practical testing format as it was my first time taking a test in this way and hopefully some of the tips will help others that are seeking to take a test is this such format.
 
@@ -48,7 +48,12 @@ You will need to take a lot of screenshots, I was completing the test from a win
 
 It took me just under 2 hours to complete the test, which is longer than I care to admit However about 2 mins after I logged into the workstation i had a complete brain fart, forgot everything i had studied (why i recommenced folks go through the labs more than once) and spent at least 30 mins flailing in my terminal like a fish out of water.
 
-Once I gather my thoughts I was able to successfully attack the other two targets with ease. After which i went back through and attacked all three targets again which I was glad i did as i realized i missed some screenshots.
+Once I gathered my thoughts I was able to successfully attack the other two targets with ease. After which i went back through and attacked all three targets again which I was glad i did as i realized i missed some screenshots.
+
+After I went back through a second time I then began putting together my report, ensuring that I followed the guidance from OffSec for submission.  
+
+Three days after submitting my report I got notification that I succsusfully passed the test.+
+
 
 ## Tips For Practical Exams
 
@@ -60,4 +65,4 @@ Since the OSWP has been retired this tips are mainly around studying for a pract
 - If there are multiple ways to accomplish the task practice and become comfortable and familiar with two.
 - Write your report while you still have access to the test environment.
 - If the test is a long one make sure you have plenty of snacks and drinks (CAFFEINE!!!!!!!)
-- Take your time and breath
+- Take your time and breathe
