@@ -1,18 +1,17 @@
-* * *
-
+---
 layout: post
 title: My OSWP Journey
 tags:
-
-- Blog
-- Wifi
-- Certifications
-    description: >
-    This page is just a place holder and introduction to my blog.
-    hero: https://source.unsplash.com/collection/145103/
-    overlay: green
-    published: true
-
+  - Blog
+  - Wifi
+  - certifications
+description: >
+ This page is just a place holder and introduction to my blog.
+hero: https://source.unsplash.com/collection/145103/
+overlay: green
+published: true
+---
+***
 * * *
 
 # Intro
